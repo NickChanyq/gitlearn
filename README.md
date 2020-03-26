@@ -16,3 +16,5 @@ hi i m nick
 
  i m peter hi
 
+ 
+ rebase nick
